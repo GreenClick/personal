@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog
+Kim's Garage: Welcome to my blog
 ---
 
 Yello
